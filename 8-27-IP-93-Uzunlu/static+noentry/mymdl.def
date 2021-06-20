@@ -1,0 +1,5 @@
+LIBRARY mymdl
+EXPORTS
+  funcNum1
+  funcNum2
+  funcNum3
